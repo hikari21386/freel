@@ -13,7 +13,7 @@
       color: #333;
   }
   
-  .coupon-box{
+  .coupon-box {
     background : #fff;
     border: 2px dashed #f08080;
     border-redius: 15px
