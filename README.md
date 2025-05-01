@@ -1,7 +1,7 @@
 
 <!DECTYPE html>
 <html>
-<head><title>ひかちゃんやよ～</title></head>
+<head>ひかちゃんやよ～</head>
 <body>
   <h1>はるちゃんへ</h1>
   <p>この画面ひかちゃんに見せてね♡</p>
