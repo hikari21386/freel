@@ -5,7 +5,7 @@
   <meta charset="UTF-8>
   <title>.</title>
   <style>
-    body{
+    body {
       font-famiy: "Hiragino Kaku Gothic ProN", Meiryo, sens-serif;
       background: #fff0f5;
       text-align: center;
