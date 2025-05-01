@@ -1,4 +1,4 @@
-# freel
+
 <!DECTYPE html>
 <html>
 <head><title>ひかちゃんやよ～</title></head>
