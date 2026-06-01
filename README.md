@@ -51,7 +51,7 @@
 <body>
   <div class="coupon-box">
     <div class="ribbon">ひみつクーポン</div>
-    <h1>はるちゃんへ</h1>
+    <h1>はやはやへ</h1>
     <p>この画面をひかちゃんに見せてね♡<br>きっといいことあるかも？</p>
   </div>
 </body>
